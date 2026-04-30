@@ -1,0 +1,18 @@
+__pycache__/
+
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+.pixi/
+
+# VSCode workspace
+*.code-workspace
+*.vscode/
+
+# Setup files
+src/funcs.py
+src/notebook.ipynb
+test_env.yml
+
+# Data
+src/crm_cbl.nc
