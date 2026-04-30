@@ -1,5 +1,5 @@
 # LFRic/Iris Intro
-Basic introduction to using the Iris library for working with weather/climate model data. The [example.ipynb](https://github.com/CorboPy/lfric_iris_intro/blob/master/src/example.ipynb) notebook includes examples of how to load and manipulate LFRic/UM data, as well as some basic visualizations.
+Basic introduction to using the Iris library for working with weather/climate model data. The [example.ipynb](https://github.com/CorboPy/lfric_iris_intro/blob/main/src/notebook.ipynb) notebook includes examples of how to load and manipulate LFRic/UM data, as well as some basic visualizations.
 
 Clone this repository by running `git clone https://github.com/CorboPy/lfric_iris_intro.git`
 
