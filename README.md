@@ -17,7 +17,7 @@ To create the `iris_intro` conda environment from env.yml:
 
 ```bash
 cd lfric_iris_intro
-conda env create -f env.yml -n iris_demo
+conda env create -f env.yml -n iris_intro
 ```
 
 ## Opening the notebook
