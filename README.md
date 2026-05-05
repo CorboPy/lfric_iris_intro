@@ -3,6 +3,8 @@ Basic introduction to using the Iris library for working with weather/climate mo
 
 Clone this repository by running `git clone https://github.com/CorboPy/lfric_iris_intro.git`
 
+Download the example biperiodic CRM data using `cd src && bash get_crm_data.sh`
+
 [scitools-iris.readthedocs.io](https://scitools-iris.readthedocs.io/en/)
 
 [iris-sample-data](https://github.com/SciTools/iris-sample-data/tree/main/iris_sample_data/sample_data)
